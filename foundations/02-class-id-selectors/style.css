@@ -1,0 +1,20 @@
+.odd-numbers {
+    background-color: hotpink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#green-id {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+
+}
